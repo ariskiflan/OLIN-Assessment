@@ -14,7 +14,7 @@ const TailwindCss = () => {
       {/* 2. responsive Design */}
       <div>
         <p className="text-[30px]">2. responsive Design</p>
-        <div className="bg-blue-500 sm:bg-green-500 md:bg-red-500 h-[100px] w-[100%]"></div>
+        <div className="bg-blue-500 sm:bg-green-500 lg:bg-red-500 h-[100px] w-[100%]"></div>
       </div>
 
       {/* 3. Flexbox Layout */}
